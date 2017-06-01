@@ -6,6 +6,10 @@ This is an attempt to solve the problem of installing a version of webkitgtk
 that suffices to make get full GHCJS working on OS X as described
 [in this stackoverflow post](https://stackoverflow.com/questions/34774356/installing-webkitgtk3-for-ghcjs-on-osx).
 
+Currently it's just
+[this gist](https://github.com/lgastako/homebrew-webkitgtk-formula/blob/master/webkitgtk%402.4.11.rb)
+exposed so it's directly useable as a tap.
+
 To use it:
 
     $ brew tap lgastako/webkitgtk-formula git@github.com:lgastako/homebrew-webkitgtk-formula.git
