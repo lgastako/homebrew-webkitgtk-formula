@@ -8,8 +8,8 @@ that suffices to make get full GHCJS working on OS X as described
 
 To use it:
 
-    $ brew tap superpowerscorp/webkitgtk-formula git@github.com:superpowerscorp/homebrew-webkitgtk-formula.git
-    $ brew install superpowerscorp/webkitgtk-formula
+    $ brew tap lgastako/webkitgtk-formula git@github.com:lgastako/homebrew-webkitgtk-formula.git
+    $ brew install lgastako/webkitgtk-formula
 
 Current status:
 
