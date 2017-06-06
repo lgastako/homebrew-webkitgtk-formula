@@ -13,7 +13,7 @@ exposed so it's directly useable as a tap.
 To use it:
 
     $ brew tap lgastako/webkitgtk-formula git@github.com:lgastako/homebrew-webkitgtk-formula.git
-    $ brew install lgastako/webkitgtk-formula
+    $ brew install lgastako/webkitgtk-formula/webkitgtk@2.4.11
 
 Current status:
 
